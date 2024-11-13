@@ -1,0 +1,334 @@
+2024-11-12 16:59:17,368 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-12 16:59:17,368 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-12 16:59:17,368 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-12 16:59:26,081 - root - INFO - Welcome back, prem!
+2024-11-12 17:02:12,185 - root - INFO - Invalid Password
+2024-11-12 17:07:58,002 - root - INFO - Invalid Password
+2024-11-12 17:33:25,794 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-12 17:33:25,794 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-12 17:33:25,794 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-12 17:33:32,906 - root - ERROR - Error Boolean value of this clause is not defined has occured
+2024-11-12 17:34:33,931 - root - ERROR - Error Boolean value of this clause is not defined has occured
+2024-11-12 17:34:44,254 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-12 17:34:44,254 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-12 17:34:44,254 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-12 17:34:49,952 - root - INFO - Welcome back, prem!
+2024-11-12 17:38:25,421 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-12 17:38:25,421 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-12 17:38:25,421 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-12 17:38:31,678 - root - ERROR - Error 'Select' object has no attribute 'password' has occured
+2024-11-12 17:38:57,294 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-12 17:38:57,294 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-12 17:38:57,294 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-12 17:39:11,114 - root - INFO - Welcome back, prem!
+2024-11-12 18:17:42,713 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-12 18:17:42,713 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-12 18:17:42,713 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-12 18:18:11,708 - root - INFO - Welcome back, prem!
+2024-11-12 18:31:54,647 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-12 18:31:54,648 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-12 18:31:54,648 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-12 18:31:54,653 - root - INFO - Welcome back, prem!
+2024-11-12 18:33:26,571 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-12 18:33:26,571 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-12 18:33:26,572 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-12 18:33:26,577 - root - ERROR - Error 'function' object has no attribute 'email' occured during user registration
+2024-11-12 18:34:52,975 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-12 18:34:52,975 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-12 18:34:52,975 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-12 18:34:52,980 - root - ERROR - Error No row was found when one was required occured during user registration
+2024-11-12 18:38:33,111 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-12 18:38:33,111 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-12 18:38:33,111 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-12 18:38:33,117 - root - INFO - Welcome back, prem!
+2024-11-12 18:41:44,512 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-12 18:41:44,512 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-12 18:41:44,512 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-12 18:41:44,518 - root - INFO - User with prashant@gmail.com is already signed-up
+2024-11-12 18:43:38,805 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-12 18:43:38,805 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-12 18:43:38,805 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-12 18:43:38,810 - root - INFO - User with prashant@gmail.com is already signed-up
+2024-11-12 18:44:13,762 - root - ERROR - Error No row was found when one was required occured during user registration
+2024-11-12 18:44:50,680 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-12 18:44:50,680 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-12 18:44:50,680 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-12 18:44:50,685 - root - ERROR - Error No row was found when one was required occured during user registration
+2024-11-12 18:46:10,704 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-12 18:46:10,704 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-12 18:46:10,704 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-12 18:46:10,710 - root - ERROR - Error No row was found when one was required occured during user registration
+2024-11-13 10:23:32,953 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 10:23:32,954 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 10:23:32,954 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 10:23:32,960 - root - ERROR - Error No row was found when one was required occured during user registration
+2024-11-13 10:27:26,478 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 10:27:26,478 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 10:27:26,478 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 10:27:26,485 - root - INFO - Welcome back, prem!
+2024-11-13 10:27:43,835 - root - ERROR - Error No row was found when one was required occured during user registration
+2024-11-13 10:28:56,656 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 10:28:56,656 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 10:28:56,656 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 10:28:56,667 - root - INFO - User new has been added successfully
+2024-11-13 10:29:32,418 - root - INFO - Invalid Password
+2024-11-13 12:09:15,105 - consoleview - INFO - Application Started
+2024-11-13 12:09:23,741 - config - INFO - Session has been started
+2024-11-13 12:09:23,761 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 12:09:23,761 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 12:09:23,762 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 12:09:23,777 - root - INFO - Welcome back, prem!
+2024-11-13 12:09:23,778 - root - ERROR - Error close_session() missing 1 required positional argument: 'session' has occured
+2024-11-13 12:24:29,110 - consoleview - INFO - Application Started
+2024-11-13 12:24:36,510 - config - INFO - Session has been started
+2024-11-13 12:24:36,524 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 12:24:36,524 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 12:24:36,524 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 12:24:36,531 - root - INFO - Welcome back, prem!
+2024-11-13 12:24:36,532 - config - INFO - Session has been closed
+2024-11-13 12:33:58,951 - config - INFO - Session has been started
+2024-11-13 12:33:58,953 - root - INFO - Invalid Password
+2024-11-13 12:33:58,953 - config - INFO - Session has been closed
+2024-11-13 12:35:06,105 - config - INFO - Session has been started
+2024-11-13 12:35:06,106 - root - INFO - No User found with this email
+2024-11-13 12:35:06,106 - config - INFO - Session has been closed
+2024-11-13 12:43:35,153 - consoleview - INFO - Application Started
+2024-11-13 12:43:55,924 - config - INFO - Session has been started
+2024-11-13 12:43:55,924 - config - INFO - Session has been started
+2024-11-13 12:43:55,929 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 12:43:55,929 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 12:43:55,929 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 12:43:55,937 - root - INFO - Invalid Password for email : {email}
+2024-11-13 12:43:55,938 - config - INFO - Session has been closed
+2024-11-13 12:44:07,892 - config - INFO - Session has been started
+2024-11-13 12:44:07,892 - config - INFO - Session has been started
+2024-11-13 12:44:07,894 - root - INFO - Welcome back, prem!
+2024-11-13 12:47:08,984 - config - INFO - Session has been started
+2024-11-13 12:47:08,984 - config - INFO - Session has been started
+2024-11-13 12:47:08,985 - root - INFO - Welcome back, prem!
+2024-11-13 12:47:25,322 - consoleview - INFO - Application Started
+2024-11-13 12:47:30,488 - config - INFO - Session has been started
+2024-11-13 12:47:30,493 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 12:47:30,493 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 12:47:30,493 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 12:47:30,500 - root - INFO - Welcome back, prem!
+2024-11-13 12:47:52,616 - config - INFO - Session has been started
+2024-11-13 12:47:52,618 - root - INFO - Welcome back, prem!
+2024-11-13 12:48:23,437 - consoleview - INFO - Application Started
+2024-11-13 12:48:30,089 - config - INFO - Session has been started
+2024-11-13 12:48:30,095 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 12:48:30,096 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 12:48:30,096 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 12:48:30,102 - root - INFO - Welcome back, prem!
+2024-11-13 12:48:36,921 - config - INFO - Session has been started
+2024-11-13 12:48:36,922 - root - INFO - Welcome back, prem!
+2024-11-13 12:50:47,556 - consoleview - INFO - Application Started
+2024-11-13 12:50:53,212 - config - INFO - Session has been started
+2024-11-13 12:50:53,217 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 12:50:53,217 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 12:50:53,217 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 12:50:53,225 - root - INFO - Invalid Password for email : {email}
+2024-11-13 12:50:53,226 - config - INFO - Session has been closed
+2024-11-13 13:18:42,533 - consoleview - INFO - Application Started
+2024-11-13 13:18:49,516 - config - INFO - Session has been started
+2024-11-13 13:18:49,534 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 13:18:49,534 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 13:18:49,534 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 13:18:49,547 - config - INFO - Invalid Password for email : {email}
+2024-11-13 13:18:49,548 - config - INFO - Session has been closed
+2024-11-13 13:19:45,711 - consoleview - INFO - Application Started
+2024-11-13 13:19:52,078 - config - INFO - Session has been started
+2024-11-13 13:19:52,099 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 13:19:52,100 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 13:19:52,100 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 13:19:52,128 - config - INFO - Welcome back, prem!
+2024-11-13 13:19:57,265 - config - ERROR - Error 'builtin_function_or_method' object has no attribute 'strip' has occured
+2024-11-13 13:19:57,265 - config - INFO - Session has been closed
+2024-11-13 13:20:20,347 - consoleview - INFO - Application Started
+2024-11-13 13:20:25,856 - config - INFO - Session has been started
+2024-11-13 13:20:25,877 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 13:20:25,878 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 13:20:25,878 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 13:20:25,896 - config - INFO - Welcome back, prem!
+2024-11-13 13:20:32,159 - config - ERROR - Error 'builtin_function_or_method' object has no attribute 'strip' has occured
+2024-11-13 13:20:32,159 - config - INFO - Session has been closed
+2024-11-13 13:22:33,659 - consoleview - INFO - Application Started
+2024-11-13 13:22:39,730 - config - INFO - Session has been started
+2024-11-13 13:22:39,737 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 13:22:39,737 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 13:22:39,737 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 13:22:39,745 - config - INFO - Welcome back, prem!
+2024-11-13 13:22:41,699 - config - ERROR - Error 'builtin_function_or_method' object has no attribute 'strip' has occured
+2024-11-13 13:22:41,700 - config - INFO - Session has been closed
+2024-11-13 13:24:32,947 - consoleview - INFO - Application Started
+2024-11-13 13:24:37,958 - config - INFO - Session has been started
+2024-11-13 13:24:37,967 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 13:24:37,967 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 13:24:37,968 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 13:24:37,977 - config - INFO - Welcome back, prem!
+2024-11-13 13:24:39,738 - config - ERROR - Error 'builtin_function_or_method' object has no attribute 'strip' has occured
+2024-11-13 13:24:39,739 - config - INFO - Session has been closed
+2024-11-13 13:25:05,201 - consoleview - INFO - Application Started
+2024-11-13 13:25:10,791 - config - INFO - Session has been started
+2024-11-13 13:25:10,796 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 13:25:10,796 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 13:25:10,796 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 13:25:10,804 - config - INFO - Welcome back, prem!
+2024-11-13 13:25:16,930 - config - INFO - password has been updated for prem
+2024-11-13 13:36:32,989 - config - INFO - Session has been started
+2024-11-13 13:36:32,994 - config - INFO - No User found with this email:{email}
+2024-11-13 13:36:32,996 - config - INFO - Session has been closed
+2024-11-13 13:37:04,995 - consoleview - INFO - Application Started
+2024-11-13 13:38:14,831 - config - INFO - Session has been started
+2024-11-13 13:38:14,846 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 13:38:14,846 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 13:38:14,847 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 13:38:14,868 - config - ERROR - Error 'ChunkedIteratorResult' object has no attribute 'password' has occured
+2024-11-13 13:38:14,869 - config - INFO - Session has been closed
+2024-11-13 13:44:19,144 - config - INFO - Session has been started
+2024-11-13 13:44:19,146 - config - ERROR - Error 'ChunkedIteratorResult' object has no attribute 'password' has occured
+2024-11-13 13:44:19,147 - config - INFO - Session has been closed
+2024-11-13 13:44:58,740 - consoleview - INFO - Application Started
+2024-11-13 13:45:06,090 - config - INFO - Session has been started
+2024-11-13 13:45:06,094 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 13:45:06,094 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 13:45:06,095 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 13:45:06,104 - config - INFO - Welcome back, prem!
+2024-11-13 13:45:23,042 - consoleview - INFO - Application Started
+2024-11-13 13:45:29,530 - config - INFO - Session has been started
+2024-11-13 13:45:29,535 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 13:45:29,535 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 13:45:29,535 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 13:45:29,544 - config - ERROR - Error 'ChunkedIteratorResult' object has no attribute 'password' has occured
+2024-11-13 13:45:29,544 - config - INFO - Session has been closed
+2024-11-13 13:45:55,542 - consoleview - INFO - Application Started
+2024-11-13 13:46:02,589 - config - INFO - Session has been started
+2024-11-13 13:46:02,610 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 13:46:02,610 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 13:46:02,611 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 13:46:02,634 - config - INFO - Welcome back, prem!
+2024-11-13 13:49:17,561 - consoleview - INFO - Application Started
+2024-11-13 13:49:29,664 - consoleview - INFO - Application Started
+2024-11-13 13:49:38,404 - config - INFO - Session has been started
+2024-11-13 13:49:38,424 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 13:49:38,425 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 13:49:38,425 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 13:49:38,453 - config - INFO - Welcome back, prem!
+2024-11-13 13:49:52,900 - config - INFO - Closing Session for prem
+2024-11-13 13:52:47,395 - consoleview - INFO - Application Started
+2024-11-13 13:52:58,631 - config - INFO - Session has been started
+2024-11-13 13:52:58,636 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 13:52:58,636 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 13:52:58,636 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 13:52:58,648 - config - INFO - Invalid Password for email : {email}
+2024-11-13 13:52:58,649 - config - INFO - Session has been closed
+2024-11-13 14:37:23,277 - consoleview - INFO - Application Started
+2024-11-13 14:37:49,930 - config - INFO - Session has been started
+2024-11-13 14:37:49,930 - config - INFO - Session has been started
+2024-11-13 14:37:49,934 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 14:37:49,934 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 14:37:49,934 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 14:37:49,946 - config - INFO - User david has been added successfully
+2024-11-13 14:38:11,323 - config - ERROR - Error This result object does not return rows. It has been closed automatically. has been occured
+2024-11-13 14:38:11,328 - config - INFO - Session has been closed
+2024-11-13 14:38:11,328 - config - INFO - Closing session for david@gmail.com
+2024-11-13 14:38:11,328 - config - INFO - Session has been closed
+2024-11-13 14:40:22,593 - consoleview - INFO - Application Started
+2024-11-13 14:41:00,926 - config - INFO - Session has been started
+2024-11-13 14:41:00,927 - config - INFO - Session has been started
+2024-11-13 14:41:00,933 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 14:41:00,933 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 14:41:00,933 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 14:41:00,945 - config - INFO - User lara has been added successfully
+2024-11-13 14:41:17,089 - config - ERROR - Error This result object does not return rows. It has been closed automatically. has been occured
+2024-11-13 14:41:17,092 - config - INFO - Session has been closed
+2024-11-13 14:41:17,092 - config - INFO - Session has been closed
+2024-11-13 14:42:48,502 - consoleview - INFO - Application Started
+2024-11-13 14:43:09,902 - config - INFO - Session has been started
+2024-11-13 14:43:09,903 - config - INFO - Session has been started
+2024-11-13 14:43:09,921 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 14:43:09,922 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 14:43:09,923 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 14:43:09,954 - config - INFO - User john has been added successfully
+2024-11-13 14:43:33,020 - config - INFO - password has been updated for john@gmail.com
+2024-11-13 14:43:33,020 - config - INFO - Session has been closed
+2024-11-13 14:44:22,032 - consoleview - INFO - Application Started
+2024-11-13 14:44:44,367 - config - INFO - Session has been started
+2024-11-13 14:44:44,374 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 14:44:44,374 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 14:44:44,374 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 14:44:44,384 - config - INFO - User lawrence has been added successfully
+2024-11-13 14:45:17,901 - config - INFO - Session has been closed
+2024-11-13 14:49:30,618 - consoleview - INFO - Application Started
+2024-11-13 14:49:41,152 - config - INFO - Session has been started
+2024-11-13 14:49:41,172 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 14:49:41,173 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 14:49:41,173 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 14:49:41,199 - config - INFO - Welcome back, prem!
+2024-11-13 14:49:58,992 - config - INFO - Closing Session for prem
+2024-11-13 14:49:58,994 - config - INFO - Session has been closed
+2024-11-13 14:50:41,102 - consoleview - INFO - Application Started
+2024-11-13 14:50:48,174 - config - INFO - Session has been started
+2024-11-13 14:50:48,179 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 14:50:48,179 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 14:50:48,179 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 14:50:48,187 - config - INFO - Welcome back, prem!
+2024-11-13 14:50:52,770 - config - INFO - Session has been closed
+2024-11-13 14:51:07,855 - config - INFO - Session has been started
+2024-11-13 14:51:07,856 - config - INFO - Welcome back, prem!
+2024-11-13 14:51:11,746 - config - INFO - Session has been closed
+2024-11-13 14:52:33,968 - config - INFO - Session has been started
+2024-11-13 14:52:33,970 - config - INFO - Welcome back, prem!
+2024-11-13 14:52:37,489 - config - INFO - Session has been closed
+2024-11-13 14:53:22,281 - consoleview - INFO - Application Started
+2024-11-13 14:53:27,843 - config - INFO - Session has been started
+2024-11-13 14:53:27,864 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 14:53:27,864 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 14:53:27,865 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 14:53:27,880 - config - INFO - Welcome back, prem!
+2024-11-13 14:53:30,965 - config - INFO - Session has been closed
+2024-11-13 14:56:04,270 - consoleview - INFO - Application Started
+2024-11-13 14:56:10,819 - config - INFO - Session has been started
+2024-11-13 14:56:10,824 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 14:56:10,824 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 14:56:10,824 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 14:56:10,831 - config - INFO - Welcome back, prem!
+2024-11-13 14:56:13,444 - config - INFO - Session has been closed
+2024-11-13 14:57:33,426 - consoleview - INFO - Application Started
+2024-11-13 15:00:37,913 - consoleview - INFO - Application Started
+2024-11-13 15:00:46,314 - config - INFO - Session has been started
+2024-11-13 15:00:46,322 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 15:00:46,322 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 15:00:46,322 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 15:00:46,328 - config - INFO - Invalid Password for email : {email}
+2024-11-13 15:00:46,328 - config - INFO - Session has been closed
+2024-11-13 15:01:45,115 - config - INFO - Session has been started
+2024-11-13 15:01:45,120 - config - INFO - Welcome back, prem!
+2024-11-13 15:02:08,605 - config - INFO - Session has been closed
+2024-11-13 15:02:54,977 - consoleview - INFO - Application Started
+2024-11-13 15:03:08,987 - config - INFO - Session has been started
+2024-11-13 15:03:08,991 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 15:03:08,991 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 15:03:08,992 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 15:03:08,999 - config - INFO - Welcome back, prem!
+2024-11-13 15:03:11,963 - config - INFO - Session has been closed
+2024-11-13 15:09:54,463 - config - INFO - Session has been started
+2024-11-13 15:09:54,468 - config - INFO - Welcome back, prem!
+2024-11-13 15:09:58,079 - config - WARNING - Invalid choice for new_password by prem
+2024-11-13 15:09:58,081 - config - INFO - Session has been closed
+2024-11-13 17:21:28,680 - consoleview - INFO - Application Started
+2024-11-13 17:21:36,424 - config - INFO - Session has been started
+2024-11-13 17:21:36,435 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 17:21:36,435 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 17:21:36,435 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 17:21:36,443 - config - INFO - Welcome back, prem!
+2024-11-13 17:21:39,736 - config - INFO - Session has been closed
+2024-11-13 18:18:48,258 - consoleview - INFO - Application Started
+2024-11-13 18:19:06,058 - config - INFO - Session has been started
+2024-11-13 18:19:06,065 - mysql.connector - INFO - package: mysql.connector.plugins
+2024-11-13 18:19:06,065 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2024-11-13 18:19:06,065 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-13 18:19:06,078 - config - INFO - User sahil has been added successfully
+2024-11-13 18:19:16,951 - config - WARNING - Invalid choice for new_password by sahil@gmail.com
+2024-11-13 18:19:16,952 - config - INFO - Session has been closed
+2024-11-13 18:28:14,088 - consoleview - INFO - Application Started
